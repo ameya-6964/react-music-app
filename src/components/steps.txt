@@ -5,3 +5,5 @@ Step 4 :- Installed SASS Syntactically Awesome Style Sheets Dependencies
 Step 5 :- Installed Font Awesome Library From https://fontawesome.com/v5/docs/web/use-with/react   
 Step 6 :- Imported FontAwesomeIcon Which is a Component and faPlay,faAngleLeft,faAngleRight Which Are Icons From Installed Library  
 NOTE :-   FontAwesomeIcon is Component Where We Pass Icons As Props  
+Step 7 :- Created Stylesheets and With Help Of Sass Added css To '.song-container' div as (min-height: 60vh background-color: lightblue 
+          display: flex flex-direction: column justify-content: center align-items: center)
