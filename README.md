@@ -1,3 +1,54 @@
+# Music Player Created With Help Of React.js JavaScript Library
+
+### Step 1 :- Created React App 
+
+### Step 2 :- Edited All The Files
+
+### Step 3 :- Created Source Folder With Assets Which Contains Cover Images And Song For My Application
+
+### Step 4 :- Installed SASS Syntactically Awesome Style Sheets Dependencies   
+
+### Step 5 :- Installed Font Awesome Library From https://fontawesome.com/v5/docs/web/use-with/react   
+
+### Step 6 :- Imported FontAwesomeIcon Which is a Component and faPlay,faAngleLeft,faAngleRight Which Are Icons From Installed Library  
+
+#### NOTE :-  FontAwesomeIcon is Component Where We Pass Icons As Props  
+ 
+### Step 7 :- Added CSS in Order To Make Website Clean. Refer Below Code 
+
+Song.js Component CSS
+
+![song-container](https://user-images.githubusercontent.com/104457295/210005893-72f0aad4-fcb2-4966-8d66-7fcc783a486b.png)
+
+Player.js Component CSS
+
+![player Controller](https://user-images.githubusercontent.com/104457295/210005896-57cd2d83-8dc6-4ea1-8667-814a1b34f08a.png)
+
+Output
+
+![op of song](https://user-images.githubusercontent.com/104457295/210005894-a49b976a-82a7-4735-8c3b-c333199800c6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
