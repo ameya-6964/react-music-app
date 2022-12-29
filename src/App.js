@@ -1,9 +1,15 @@
 import React from 'react'
+//! Adding Components
+import Player from './components/Player'
+import Song from './components/Song'
+
+
 
 const App = () => {
   return (
     <div>
-      <h1> Setting up React App</h1>
+      <Song />
+      <Player />
     </div>
   )
 }
